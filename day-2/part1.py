@@ -1,4 +1,4 @@
-file = open("day2-input.txt", "r")
+file = open("input.txt", "r")
 data = file.readlines()
 
 two = 0

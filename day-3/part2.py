@@ -1,4 +1,4 @@
-file = open("day3-input.txt", "r")
+file = open("input.txt", "r")
 lines = file.readlines()
 patch = list()
 
